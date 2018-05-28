@@ -1,0 +1,9 @@
+[core]
+	editor = /usr/bin/nano
+[user]
+	name = Nkosikhona Bulana
+	email = moorbulana@gmail.com
+[push]
+	default = matching
+[alias]
+	co = checkout
