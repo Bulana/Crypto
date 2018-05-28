@@ -38,3 +38,20 @@ git config --global push.default matching
 git config --global alias.co checkout
 git init
 git status
+git add --all
+git commit -m "first commit in c9"
+cat ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+cat ~/ .ssh/id_rsa.pub
+cat .ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+clear
+whoami
+pwd
+cat /home/bulana/cat/.ssh/id_rsa.pub
+cat /home/ec2-user/.ssh/id_rsa.pub
+cat /home/bulana/.ssh/id_rsa.pub
+ssh-keygen
+cat /home/ec2-user/.ssh/id_rsa.pub
+git remote add origin https://github.com/Bulana/Crypto.git
+git push origin master
